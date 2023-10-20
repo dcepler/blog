@@ -21,6 +21,10 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories"] # Order of post meta information
   mainSections = ["post"]
 
+[permalinks]
+    post                = "/post/:slug/"
+    page                = "/:slug/"
+
 [Params.logo]
   subtitle = "" # Logo subtitle
 
