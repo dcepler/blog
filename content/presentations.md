@@ -4,6 +4,7 @@ date: 2017-10-22T14:00:00-04:00
 draft: false
 title: Presentations
 menu: main
+comments: false
 ---
 
 Theses are the presentations I have given. I am more than happy to give any of them at a CFUG meeting.

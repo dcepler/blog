@@ -4,6 +4,7 @@ date: 2017-10-22T14:00:00-04:00
 draft: false
 title: Projects
 menu: main
+comments: false
 ---
 
 ### [Unofficial Updater 2](https://www.uu-2.download/)
