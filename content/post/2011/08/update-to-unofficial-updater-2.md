@@ -1,11 +1,14 @@
-+++
-author = "David Epler"
-categories = ["Unofficial Updater 2", "ColdFusion", "riacon"]
-date = "2011-08-03T13:00:00-04:00"
-draft = false
-title = "Update to Unofficial Updater 2"
-slug = "update-to-unofficial-updater-2"
-+++
+---
+author: David Epler
+date: 2011-08-03T13:00:00-04:00"
+draft: false
+title: Update to Unofficial Updater 2
+slug: update-to-unofficial-updater-2
+categories:
+ - "Unofficial Updater 2"
+ - "ColdFusion"
+tags:
+---
 
 I have updated [Unofficial Updater 2](https://github.com/dcepler/unofficial-updater2) so it now applies [APSB11-14](http://www.adobe.com/support/security/bulletins/apsb11-14.html) since it has been out (and subsequently [updated](http://blogs.adobe.com/coldfusion/2011/07/20/june-coldfusion-security-hot-fix-updated/)) for several weeks. The other change to UU2 is that it will now apply patches to ColdFusion 9.0.1 based upon the [matrix](https://github.com/dcepler/unofficial-updater2/blob/master/cf901-hotfix-matrix.pdf?raw=true) of hotfixes.
 

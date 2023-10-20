@@ -1,11 +1,14 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion", "Security", "Unofficial Updater 2"]
-date = "2013-01-06T19:30:00-05:00"
-draft = false
-title = "File Integrity Checking CFIDE"
-slug = "file-integrity-checking-cfide"
-+++
+---
+author: David Epler
+date: 2013-01-06T19:30:00-05:00
+draft: false
+title: File Integrity Checking CFIDE
+slug: file-integrity-checking-cfide
+categories:
+  - "ColdFusion"
+  - "Security"
+  - "Unofficial Updater 2"
+---
 
 So with the most recent attack on ColdFusion (detailed by Charlie Arehart, [Part #1](http://www.carehart.org/blog/client/index.cfm/2013/1/2/serious_security_threat), [Part #2](http://www.carehart.org/blog/client/index.cfm/2013/1/2/Part2_serious_security_threat)) there was a comment left on the post that got me a bit concerned where the comment said all you had to do is search for `h.cfm` to remove the file placed by the attacker. My experience has been if an attacker has had access to the server there is no absolute way of knowing what they might have done, even with good log reconstruction. As I noted in my comment in one instance I have previously encountered a situation where an attacker put a file called `fck_dialog_common.cfm` into `CFIDE/scripts/ajax/FCKeditor/editor/dialog/common`. At first glance of the directory it looks right, but inactuallity it a file that was buried and hidden so the attacker could come back through it instead of the original entry point. 
   

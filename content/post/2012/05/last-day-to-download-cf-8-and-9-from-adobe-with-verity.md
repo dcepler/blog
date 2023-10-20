@@ -1,11 +1,12 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion"]
-date = "2012-05-31T14:00:00-04:00"
-draft = false
-title = "Last day to download CF 8 and 9 from Adobe with Verity"
-slug = "last-day-to-download-cf-8-and-9-from-adobe-with-verity"
-+++
+---
+author: David Epler
+date: 2012-05-31T14:00:00-04:00
+draft: false
+title: Last day to download CF 8 and 9 from Adobe with Verity
+slug: last-day-to-download-cf-8-and-9-from-adobe-with-verity
+categories:
+  - "ColdFusion"
+---
 
 About two weeks back Adobe gave [notice](http://blogs.coldfusion.com/post.cfm/availability-of-coldfusion-9) that you would no longer be able to download a copy of ColdFusion 8 or ColdFusion 9 that contained Verity after May 31, 2012. All the ColdFusion 9 materials are at http://www.adobe.com/support/coldfusion/downloads_updates.html. 
 

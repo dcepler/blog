@@ -1,11 +1,13 @@
-+++
-author = "David Epler"
-categories = ["Adobe", "ColdFusion", "Security"]
-date = "2014-03-24T14:00:00-04:00"
-draft = false
-title = "Enough Fail to Go Around"
-slug = "enough-fail-to-go-around"
-+++
+---
+author: David Epler
+date: 2014-03-24T14:00:00-04:00
+draft: false
+title: Enough Fail to Go Around
+slug: enough-fail-to-go-around
+categories:
+ - "ColdFusion"
+ - "Security"
+---
 
 So the talk surrounding the Krebs on Security post, [The Long Tail of ColdFusion Fail](http://krebsonsecurity.com/2014/03/the-long-tail-of-coldfusion-fail/), continues. Some have taken issue with that he seems to be singling out ColdFusion. Personally, I like the fact that he is reporting on breaches. It helps bring to light issues with installs that are out there, so others can learn from the problems. The ones he has highlighted are severe since they involve credit card processing. 
 
@@ -56,7 +58,7 @@ Another security feature in ColdFusion 10 that has been pushed is **Secure Profi
 
 Patching ColdFusion 8.0.x and 9.0.x is an absolute pain, which is how [Unofficial Updater 2](https://www.uu-2.download) (UU2) came about. While UU2 is not perfect, it does make it a hell of a lot easier for older versions.
 
-Patching has gotten better in ColdFusion 10 with the **HotFix Installer** but there are still  issues. Almost all of the issues regarding patching are about the quality of the patches issued. The track record has not been good.
+Patching has gotten better in ColdFusion 10 with the **HotFix Installer** but there are still issues. Almost all of the issues regarding patching are about the quality of the patches issued. The track record has not been good.
 
 As I showed in my previous post, [How patching ColdFusion 8.0.x made you more vulnerable in some cases (or fun with CVE-2013-0632 from APSB13-03)](/post/how-patching-coldfusion-8-0-x-made-you-more-vulnerable-in-some-cases-or-fun-with-cve-2013-0632-from-apsb13-03), Adobe caused CVE-2013-0632 with a security hotfix and was not dealt with for nearly 5 years until it became widely exploited. Adobe had to pull Update 3 for ColdFusion 10 completely. They have had to re-issue other updates due to errors. In the case of [APSB13-10](http://www.adobe.com/support/security/bulletins/apsb13-10.html) [Update 9] they broke functionality that was not related (Bug #[3540876](https://bugbase.adobe.com/index.cfm?event=bug&id=3540876)) and people had to wait over a month until [APSB13-13](http://www.adobe.com/support/security/bulletins/apsb13-13.html) [Update 10] to get it resolved. These patch quality issues directly impact the confidence people have in applying them and leaves more installations vulnerable because of the slower adoption rate of the patches.
 

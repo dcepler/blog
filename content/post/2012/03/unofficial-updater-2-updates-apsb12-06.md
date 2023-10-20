@@ -1,11 +1,12 @@
-+++
-author = "David Epler"
-categories = ["Unofficial Updater 2"]
-date = "2012-03-19T07:00:00-04:00"
-draft = false
-title = "Unofficial Updater 2 Updates (APSB12-06)"
-slug = "unofficial-updater-2-updates-apsb12-06"
-+++
+---
+author: David Epler
+date: 2012-03-19T07:00:00-04:00
+draft: false
+title: Unofficial Updater 2 Updates (APSB12-06)
+slug: unofficial-updater-2-updates-apsb12-06
+categories:
+  - "Unofficial Updater 2"
+---
 
 There have been several updates to [Unofficial Updater 2](https://github.com/dcepler/unofficial-updater2) over the past few days.
 

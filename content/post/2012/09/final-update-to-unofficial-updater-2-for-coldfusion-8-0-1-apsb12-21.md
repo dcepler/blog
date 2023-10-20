@@ -1,11 +1,13 @@
-+++
-author = "David Epler"
-categories = ["Unofficial Updater 2", "ColdFusion"]
-date = "2012-09-19T21:30:00-04:00"
-draft = false
-title = "Final update to Unofficial Updater 2 for ColdFusion 8.0.1 (APSB12-21)"
-slug = "final-update-to-unofficial-updater-2-for-coldfusion-8-0-1-apsb12-21"
-+++
+---
+author: David Epler
+date: 2012-09-19T21:30:00-04:00
+draft: false
+title: Final update to Unofficial Updater 2 for ColdFusion 8.0.1 (APSB12-21)
+slug: final-update-to-unofficial-updater-2-for-coldfusion-8-0-1-apsb12-21
+categories:
+  - "Unofficial Updater 2"
+  - "ColdFusion"
+---
 
 Well, the long nightmare known as patching Adobe ColdFusion 8.0.1 is now over. With the release of [APSB12-21](http://www.adobe.com/support/security/bulletins/apsb12-21.html) last week and [core support ending](http://www.adobe.com/support/products/enterprise/eol/eol_matrix.html#63) on July 31 for ColdFusion 8 there will be no more security hot fixes released for it (noted at the bottom of the [technote](http://helpx.adobe.com/coldfusion/kb/coldfusion-security-hotfix-apsb12-21.html)).
 

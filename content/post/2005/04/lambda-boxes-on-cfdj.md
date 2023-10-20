@@ -1,11 +1,18 @@
-+++
-author = "David Epler"
-categories = ["BlueDragon", "ColdFusion", "cfunited"]
-date = "2005-04-14T08:00:00-04:00"
-draft = false
-title = "LAMBDA Boxes on CFDJ"
-slug = "lambda-boxes-on-cfdj"
-+++
+---
+author: David Epler
+date: 2005-04-14T08:00:00-04:00
+draft: false
+title: LAMBDA Boxes on CFDJ
+slug: lambda-boxes-on-cfdj
+categories:
+  - "Presentations"
+  - "Conferences"
+tags:
+  - "BlueDragon"
+  - "ColdFusion"
+  - "cfunited"
+
+---
 
 Surprise, surprise. I open up my email box and see that the latest [CFDJ](http://sys-con.com/coldfusion/ "ColdFusion Developers Journal") is available. Go scrolling through the articles to find that [Jeff Peters](http://www.grokfusebox.com "Jeff Peters: GrokFusebox") has written a really good article on [LAMBDA Boxes](http://www.sys-con.com/story/?storyid=49181&DE=1 "CFDJ: LAMBDA Boxes"), and further down mentions me and my site. And because I have been busy with a new job and apartment, I haven't updated the site much.
 

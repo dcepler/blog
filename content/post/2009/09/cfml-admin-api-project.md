@@ -1,11 +1,19 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion", "Railo", "OpenBD", "CFML", "CFMLAdminAPI"]
-date = "2009-09-28T23:00:00-04:00"
-draft = false
-title = "CFML Admin API Project"
-slug = "cfml-admin-api-project"
-+++
+---
+author: David Epler
+date: 2009-09-28T23:00:00-04:00
+draft: false
+title: CFML Admin API Project
+slug: cfml-admin-api-project
+categories:
+  - "Projects"
+  - "ColdFusion"
+tags:
+  - "Adobe ColdFusion"
+  - "Railo"
+  - "OpenBD"
+  - "CFML"
+  - "CFMLAdminAPI"
+---
 
 Well, this isn't exactly a new project. I actually started it back in 2005 when I wrote an Admin API for BlueDragon 6.2 and had a compatibility layer to map **_cfide.adminapi_** calls back to the BlueDragon Admin API.
 

@@ -12,7 +12,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "img/avatar.png"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "David Epler's Personal blog" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = true # Show "Read more" button in list if true
@@ -22,7 +22,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   mainSections = ["post"]
 
 [Params.logo]
-  subtitle = "Just another site" # Logo subtitle
+  subtitle = "" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page

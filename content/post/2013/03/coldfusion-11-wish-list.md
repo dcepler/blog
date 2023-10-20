@@ -1,11 +1,12 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion"]
-date = "2013-03-25T15:25:00-04:00"
-draft = false
-title = "ColdFusion 11 Wish List"
-slug = "coldfusion-11-wish-list"
-+++
+---
+author: David Epler
+date: 2013-03-25T15:25:00-04:00
+draft: false
+title: ColdFusion 11 Wish List
+slug: coldfusion-11-wish-list
+categories:
+ - "ColdFusion"
+---
 
 So last week the ColdFusion product team announced a survey to get selected into the [pre-release program](http://blogs.coldfusion.com/post.cfm/pre-release-for-coldfusion-splendor) for the next version of ColdFusion (refuse to call it by the code name since all I think of is [Splenda](http://www.splenda.com/)). A lot of this has been rolling around in my head since they published the [roadmap](http://blogs.coldfusion.com/post.cfm/product-roadmap-for-coldfusion) last August and really need to get this out before there is a possibility of being included in the pre-release and the requisite NDA. 
 

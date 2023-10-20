@@ -1,11 +1,13 @@
 ---
-author: "David Epler"
-title: "Migrated to Hugo"
-slug: "migrated-to-hugo"
-date: "2017-11-11T09:47:53-05:00"
-categories:
-  - "Hugo"
+author: David Epler
+date: 2017-11-11T09:47:53-05:00
 draft: false
+title: Migrated to Hugo
+slug: migrated-to-hugo
+categories:
+  - "General"
+tags:
+ - "Hugo"
 ---
 
 I really haven't paid much attention to my blog in a few years. Part of that was probably due to the fact it was running on ColdFusion (Railo 3.3 really) using [Mango Blog](https://www.mangoblog.org/). Both are extremely out of date and started looking for an alternative. First thought was to convert to [WordPress](https://wordpress.org/), but given the hassles to set it up and run it securely with seemingly constant [vulnerabilties reported](https://wpvulndb.com/) pretty much ruled it out.

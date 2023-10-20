@@ -1,11 +1,13 @@
-+++
-author = "David Epler"
-categories = ["Unofficial Updater 2", "ColdFusion"]
-date = "2011-11-04T10:40:00-04:00"
-draft = false
-title = "Another update to Unoffical Updater 2"
-slug = "another-update-to-unoffical-updater-2"
-+++
+---
+author: David Epler
+date: 2011-11-04T10:40:00-04:00
+draft: false
+title: Another update to Unoffical Updater 2
+slug: another-update-to-unoffical-updater-2
+categories:
+ - "Unofficial Updater 2"
+ - "ColdFusion"
+---
 
 I have just updated [Unoffical Updater 2](https://github.com/dcepler/unofficial-updater2) so that it will apply [Cumulative Hot Fix 2 for ColdFusion 9.0.1](http://kb2.adobe.com/cps/918/cpsid_91836.html) and it also fixes applying [APSB11-14](http://kb2.adobe.com/cps/907/cpsid_90784.html) to ColdFusion 8.0.1 since it was "silently" updated on September 16th. ~~I say "silently" because there was nothing from Adobe saying they had updated it (blogs, email, tweets).~~ It actually was announced on the [ColdFusion Server Team Blog](http://blogs.adobe.com/coldfusion/2011/09/16/updated-bug-83514-session-is-invalid-issue/) but isn't all that clear. I found out when a user of UU2 said it was failing. UU2 uses SHA-512 hashes to verify the downloads. There are only two reasons for the hashes to be incorrect, either the file got corrupted during download, or Adobe updated the file.
 

@@ -1,10 +1,10 @@
-+++
-author = "David Epler"
-date = "2017-10-22T14:00:00-04:00"
-draft = false
-title = "Projects"
-menu = "main"
-+++
+---
+author: David Epler
+date: 2017-10-22T14:00:00-04:00
+draft: false
+title: Projects
+menu: main
+---
 
 ### [Unofficial Updater 2](https://www.uu-2.download/)
 Ant script packaged with AntInstaller to apply all applicable updates to ColdFusion 8.0.1 and 9.0.x

@@ -1,11 +1,14 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion", "Security", "Unofficial Updater 2"]
-date = "2013-11-13T19:45:00-05:00"
-draft = false
-title = "Unofficial Updater 2 now patches APSB13-27"
-slug = "unofficial-updater-2-now-patches-apsb13-27"
-+++
+---
+author: David Epler
+date: 2013-11-13T19:45:00-05:00
+draft: false
+title: Unofficial Updater 2 now patches APSB13-27
+slug: unofficial-updater-2-now-patches-apsb13-27
+categories:
+ - "ColdFusion"
+ - "Security"
+ - "Unofficial Updater 2"
+---
 
 This has been one of the faster turn around times to get an updated [Unofficial Updater 2](https://www.uu-2.download) out. One of the items that stuck out was that one of the acknowledgments was to Alex Holden who co-discovered the [Adobe password and software breach](http://krebsonsecurity.com/2013/10/adobe-to-announce-source-code-customer-data-breach/).
 

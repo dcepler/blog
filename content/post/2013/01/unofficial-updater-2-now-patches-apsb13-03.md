@@ -1,11 +1,14 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion", "Security", "Unofficial Updater 2"]
-date = "2013-01-21T18:45:00-05:00"
-draft = false
-title = "Unofficial Updater 2 now patches APSB13-03"
-slug = "unofficial-updater-2-now-patches-apsb13-03"
-+++
+---
+author: David Epler
+date: 2013-01-21T18:45:00-05:00
+draft: false
+title: Unofficial Updater 2 now patches APSB13-03
+slug: unofficial-updater-2-now-patches-apsb13-03
+categories:
+  - "ColdFusion"
+  - "Security"
+  - "Unofficial Updater 2"
+---
 
 I had intended to get this posting out earlier when I updated [Unofficial Updater 2](https://www.uu-2.download) on the 16th. Here are the changes that were made with the latest release UU2.
 

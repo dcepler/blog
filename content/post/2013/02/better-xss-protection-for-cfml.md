@@ -1,11 +1,18 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion", "Railo", "CFML", "Grails", "Security"]
-date = "2013-02-01T13:00:00-05:00"
-draft = false
-title = "Better XSS Protection for CFML"
-slug = "better-xss-protection-for-cfml"
-+++
+---
+author: David Epler
+date: 2013-02-01T13:00:00-05:00
+draft: false
+title: Better XSS Protection for CFML
+slug: better-xss-protection-for-cfml
+categories:
+ - "ColdFusion"
+ - "Security"
+tage:
+ - "Railo"
+ - "CFML"
+ - "Grails"
+ - "XSS"
+---
 
 So like quite a few [others](http://compiledammit.com/about-us/), I have been working with [Groovy](http://www.groovy-lang.org/) and [Grails](http://grails.org/) much more. I'm not going to go into how much better or more joyful it is to work with than CFML but to take ideas from it and lobby to get them implemented in Adobe ColdFusion and Railo.
   

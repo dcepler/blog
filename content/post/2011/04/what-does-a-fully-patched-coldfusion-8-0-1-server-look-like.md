@@ -1,11 +1,12 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion"]
-date = "2011-04-05T09:20:00-04:00"
-draft = false
-title = "What does a fully patched ColdFusion 8.0.1 Server look like?"
-slug = "what-does-a-fully-patched-coldfusion-8-0-1-server-look-like"
-+++
+---
+author: David Epler
+date: 2011-04-05T09:20:00-04:00
+draft: false
+title: What does a fully patched ColdFusion 8.0.1 Server look like?
+slug: what-does-a-fully-patched-coldfusion-8-0-1-server-look-like
+categories:
+ - "ColdFusion"
+---
 
 Seems like that should be an easy question to answer but it isn't. It really depends upon how ColdFusion was installed (standalone, multi-server JRun4, or J2EE EAR/WAR), what web server it is connected to, the underlying operating system, and if you need the hot fix that resolves a specific problem.
 

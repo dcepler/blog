@@ -1,10 +1,10 @@
-+++
-author = "David Epler"
-date = "2017-10-22T14:00:00-04:00"
-draft = false
-title = "Presentations"
-menu = "main"
-+++
+---
+author: David Epler
+date: 2017-10-22T14:00:00-04:00
+draft: false
+title: Presentations
+menu: main
+---
 
 Theses are the presentations I have given. I am more than happy to give any of them at a CFUG meeting.
 
@@ -16,7 +16,7 @@ This presentation goes over the most common vulnerabilities found in web applica
 * [XSS Video](/videos/XSS-1a.mov)
 
 
-### [Ant Ain't Hard](/presentations/Ant_Aint_Hard.pdf)
+### [Ant Ain\'t Hard](/presentations/Ant_Aint_Hard.pdf)
 Apache Ant is a very useful build and deployment scripting tool. It is not all that dissimilar to CFML, especially when using ant-contrib. Will show you how to install Ant (you probably already have it if you are using CFEclipse or CF Builder 2+), basics of using Ant, integrating it with SCMs (svn and git), and a sample deployment process. Also cover AntInstaller which allows one to bundle Ant scripts into a run-able installer like was done for Unofficial Updater 2
 
 

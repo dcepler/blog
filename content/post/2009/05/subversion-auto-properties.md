@@ -1,11 +1,16 @@
-+++
-author = "David Epler"
-categories = ["cfobjective", "subversion", "svn"]
-date = "2009-05-16T13:00:00-04:00"
-draft = false
-title = "Subversion Auto Properties"
-slug = "subversion-auto-properties"
-+++
+---
+author: David Epler
+date: 2009-05-16T13:00:00-04:00
+draft: false
+title: Subversion Auto Properties
+slug: subversion-auto-properties
+categories:
+  - "Conferences"
+tags:
+  - "cfobjective"
+  - "subversion"
+  - "svn"
+---
 
 At [cf.Objective()](http://www.cfobjective.com/) I attended **_Subversion for Smarties - Do More With Subversion_** given by Cameron Childress and it was a good presentation. I picked up a few things that I didn't know before like changelists which were added in Subversion 1.5. The presentation did cover other things like svn properties on files like `svn:keywords` and how to add them with `svn propset`. While `svn propset` works, it is possible to set svn properties on files globally on the create of the file without having to manually setting them. This is done my modifying the subversion client configuration.
 

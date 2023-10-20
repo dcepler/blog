@@ -1,11 +1,14 @@
-+++
-author = "David Epler"
-categories = ["Unofficial Updater 2", "github"]
-date = "2012-03-15T08:00:00-04:00"
-draft = false
-title = "Awesomeness of github and Unofficial Updater 2"
-slug = "awesomeness-of-github-and-unofficial-updater-2"
-+++
+---
+author: David Epler
+date: 2012-03-15T08:00:00-04:00
+draft: false
+title: Awesomeness of github and Unofficial Updater 2
+slug: awesomeness-of-github-and-unofficial-updater-2
+categories:
+  - "Unofficial Updater 2"
+tags:  
+  - "github"
+---
 
 So originally I was going to post a note that Unofficial Updater 2 was broken since I got several emails saying that it was failing when trying to download files from Adobe. Instead, I'm going to rave about having the project on [github](https://github.com/dcepler/unofficial-updater2).
   

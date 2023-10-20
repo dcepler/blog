@@ -1,11 +1,13 @@
-+++
-author = "David Epler"
-categories = ["Unofficial Updater 2", "ColdFusion"]
-date = "2013-03-12T15:00:00-04:00"
-draft = false
-title = "The Joys of ColdFusion Patching"
-slug = "the-joys-of-coldfusion-patching"
-+++
+---
+author: David Epler
+date: 2013-03-12T15:00:00-04:00
+draft: false
+title: The Joys of ColdFusion Patching
+slug: the-joys-of-coldfusion-patching
+categories:
+ - "Unofficial Updater 2"
+ - "ColdFusion"
+---
 
 So if you have been following things, Adobe released [cumulative hotfixes](http://blogs.coldfusion.com/post.cfm/new-updates-for-coldfusion-9-9-0-1-9-0-2-and-10-java-7-now-supported) to allow for Java 7 support and to update `<cfmap>` to use Google Maps API v3 instead of v2. Only problem is along the way they have had to [update](http://blogs.coldfusion.com/post.cfm/new-chfs-for-cf-9-and-cf-9-0-1) them [a few times](http://blogs.coldfusion.com/post.cfm/jpedal-jar-for-coldfusion-9-0-1-cumulative-hotfix-4). It is exactly this situation which drove me to create Unofficial Updater 2 originally. 
   

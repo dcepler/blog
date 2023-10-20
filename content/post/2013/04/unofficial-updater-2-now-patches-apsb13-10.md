@@ -1,11 +1,13 @@
-+++
-author = "David Epler"
-categories = ["Unofficial Updater 2", "ColdFusion"]
-date = "2013-04-12T15:00:00-04:00"
-draft = false
-title = "Unofficial Updater 2 now patches APSB13-10"
-slug = "unofficial-updater-2-now-patches-apsb13-10"
-+++
+---
+author: David Epler
+date: 2013-04-12T15:00:00-04:00
+draft: false
+title: Unofficial Updater 2 now patches APSB13-10
+slug: unofficial-updater-2-now-patches-apsb13-10
+categories:
+ - "Unofficial Updater 2"
+ - "ColdFusion"
+---
 
 [Unofficial Updater 2](https://www.uu-2.download) has been updated (April 11th) to now apply the latest ColdFusion security hotfix [APSB13-10](http://www.adobe.com/support/security/bulletins/apsb13-10.html) that was released on April 9th.
   

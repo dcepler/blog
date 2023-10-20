@@ -1,13 +1,18 @@
-+++
-author = "David Epler"
-categories = ["OSX"]
-date = "2008-04-13T21:00:00-04:00"
-draft = false
-title = "Upgraded to Leopard"
-slug = "upgraded-to-leopard"
-+++
+---
+author: David Epler
+date: 2008-04-13T21:00:00-04:00
+draft: false
+title: Upgraded to Leopard
+slug: upgraded-to-leopard
+categories:
+  - General
+tags:
+  - "Mac"
+  - "OS X"
+  - "Leopard"
+---
 
-So today I finally took the plunge to upgrade my MBP to Leopard. I am not really looking to be a trailblazer and waited for Adobe to release [ColdFusion 8.0.1 with official Leopard support](http://www.adobe.com/products/coldfusion/pdfs/cf8_systemsupportmatrix.pdf) and knowing that a new release of an OS **always** have issues. I didn't want to deal with them. But the main reasons to upgrade for me were Spaces, Time Machine, and full 64-bit OS on Intel.
+So today I finally took the plunge to upgrade my MacBook Pro to Leopard. I am not really looking to be a trailblazer and waited for Adobe to release [ColdFusion 8.0.1 with official Leopard support](http://www.adobe.com/products/coldfusion/pdfs/cf8_systemsupportmatrix.pdf) and knowing that a new release of an OS **always** have issues. I didn't want to deal with them. But the main reasons to upgrade for me were Spaces, Time Machine, and full 64-bit OS on Intel.
  
 <!--more-->
 

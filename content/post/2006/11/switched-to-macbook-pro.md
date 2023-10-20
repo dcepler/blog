@@ -1,11 +1,15 @@
-+++
-author = "David Epler"
-categories = ["Mac", "OSX"]
-date = "2006-11-24T09:10:00-05:00"
-draft = false
-title = "Switched to MacBook Pro"
-slug = "switched-to-macbook-pro"
-+++
+---
+author: David Epler
+date: 2006-11-24T09:10:00-05:00
+draft: false
+title: Switched to MacBook Pro
+slug: switched-to-macbook-pro
+categories:
+  - General
+tags:
+  - "Mac"
+  - "OS X"
+---
 
 For a while now I have been considering switching from a PC to a Mac. I had used Macs previously in college for non-linear video editing at the [student-run tv station (STN 49)](http://stn49.com/), but never really like Mac OS 8 or 9 and [Power Macintoshes](http://www.info.apple.com/support/applespec.legacy/powermacintosh.html). Mac OS X was interesting and started to think about possibly getting a Mac when Apple released the [Mac mini](http://support.apple.com/specs/macmini/Mac_mini_orig.html). When Apple announced the switch from PowerPC to Intel, I became more interested. When Apple released the MacBook Pro with Intel Core 2 Duo, that finally made me want to get one. 
 

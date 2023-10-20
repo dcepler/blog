@@ -1,11 +1,12 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion"]
-date = "2012-09-04T18:10:00-04:00"
-draft = false
-title = "Thoughts on ColdFusion 10 Update 1"
-slug = "thoughts-on-coldfusion-10-update-1"
-+++
+---
+author: David Epler
+date: 2012-09-04T18:10:00-04:00
+draft: false
+title: Thoughts on ColdFusion 10 Update 1
+slug: thoughts-on-coldfusion-10-update-1
+categories:
+  - "ColdFusion"
+---
 
 So if you didn't see it via the [ColdFusion Blog](http://blogs.coldfusion.com/post.cfm/coldfusion-10-update-1-10-0-1-released) or by the new indicator inside ColdFusion Administrator, the first update for ColdFusion 10 dropped on August 31st.
   

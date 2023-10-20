@@ -1,11 +1,16 @@
-+++
-author = "David Epler"
-categories = ["Unofficial Updater 2", "ColdFusion", "Ant"]
-date = "2011-04-18T09:20:00-04:00"
-draft = false
-title = "Unofficial Updater 2 for ColdFusion 8"
-slug = "unofficial-updater-2-for-coldfusion-8"
-+++
+---
+author: David Epler
+date: 2011-04-18T09:20:00-04:00
+draft: false
+title: Unofficial Updater 2 for ColdFusion 8
+slug: unofficial-updater-2-for-coldfusion-8
+categories:
+  - "Unofficial Updater 2"
+  - "ColdFusion"
+  - "Apache Ant"
+tags:
+  - "Ant Installer"
+---
 
 So earlier this month, I wrote [What does a fully patched ColdFusion 8.0.1 Server look like?](/post/what-does-a-fully-patched-coldfusion-8-0-1-server-look-like/) which outlined my frustration and problems with the way Adobe currently releases hot fix and security updates for ColdFusion. Ultimately, my conclusion was that Adobe needs to release Update 2 for ColdFusion 8. While it felt good to write it all up, it didn’t solve the basic problem of getting a fully patched ColdFusion 8.0.1 Server. I still have to update multiple servers and applying all the published hot fix and security updates in order by hand just isn’t an option. It is too time consuming and error prone.
 

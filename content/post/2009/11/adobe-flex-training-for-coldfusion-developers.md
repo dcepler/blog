@@ -1,11 +1,17 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion", "ColdFusion Builder", "Flex", "Flash Builder"]
-date = "2009-11-23T10:55:00-05:00"
-draft = false
-title = "Adobe Flex Training for ColdFusion Developers"
-slug = "adobe-flex-training-for-coldfusion-developers"
-+++
+---
+author: David Epler
+date: 2009-11-23T10:55:00-05:00
+draft: false
+title: Adobe Flex Training for ColdFusion Developers
+slug: adobe-flex-training-for-coldfusion-developers
+categories:
+  - "ColdFusion"
+tags: 
+  - "Adobe ColdFusion"
+  - "ColdFusion Builder"
+  - "Flex"
+  - "Flash Builder"
+---
 
 On Friday (November 20th), I spent my day at the free [Adobe Flex Training for ColdFusion Developers](http://www.ce1.com/adobe/2009/flextrainingforcfdevelopers/). If you are (like me) working day in, day out with ColdFusion and haven't played with or explored Flex, ColdFusion Builder, or Flash Builder you should go. While it is an "Intro", it is enough to get your feet wet to explore more once you leave.
   

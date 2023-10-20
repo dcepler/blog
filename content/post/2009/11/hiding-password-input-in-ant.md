@@ -1,11 +1,12 @@
-+++
-author = "David Epler"
-categories = ["Ant"]
-date = "2009-11-12T12:40:00-05:00"
-draft = false
-title = "Hiding password input in Ant"
-slug = "hiding-password-input-in-ant"
-+++
+---
+author: David Epler
+date: 2009-11-12T12:40:00-05:00
+draft: false
+title: Hiding password input in Ant
+slug: hiding-password-input-in-ant
+categories:
+  - "Apache Ant"
+---
 
 When writting Ant scripts I always have Ant prompt for passwords be it for SVN, SFTP, or anything else that needs to be logged into. Typically would have the following:
 
@@ -23,7 +24,7 @@ The only problem is that it echos the password back at you, there has to be a be
 </input>
 ```
 
-I did not know there could be nested elements in `<input>`. Apparently Ant 1.7 added `<handler>` nested element for [`<input>`](http://ant.apache.org/manual/CoreTasks/input.html). But nowhere is there any documentation on **SecureInputHandler**.
+I did not know there could be nested elements in `<input>`. Apparently Ant 1.7 added `<handler>` nested element for [input](http://ant.apache.org/manual/CoreTasks/input.html). But nowhere is there any documentation on **SecureInputHandler**.
   
 So I tried out the fragment and as the post noted there are a few requirements to get it to work:
 

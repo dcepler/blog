@@ -1,11 +1,13 @@
-+++
-author = "David Epler"
-categories = ["ColdFusion", "Unofficial Updater 2"]
-date = "2013-07-11T17:12:48-04:00"
-draft = false
-title = "Unofficial Updater 2 now patches APSB13-19"
-slug = "unofficial-updater-2-now-patches-apsb13-19"
-+++
+---
+author: David Epler
+date: 2013-07-11T17:12:48-04:00
+draft: false
+title: Unofficial Updater 2 now patches APSB13-19
+slug: unofficial-updater-2-now-patches-apsb13-19
+categories:
+ - "ColdFusion"
+ - "Unofficial Updater 2"
+---
 
 Well, I kind of missed blogging the last update to [Unofficial Updater 2](https://www.uu-2.download/) back in May while I was at [cf.Objective()](http://cfobjective.com/). The latest update [APSB13-19](http://www.adobe.com/support/security/bulletins/apsb13-19.html) dropped while I was on vacation at the beach, but still got it done two days after it was released by Adobe.
 

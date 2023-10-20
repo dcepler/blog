@@ -1,11 +1,12 @@
-+++
-author = "David Epler"
-categories = ["Unofficial Updater 2"]
-date = "2012-06-26T16:30:00-04:00"
-draft = false
-title = "More Updates to Unofficial Updater 2"
-slug = "more-updates-to-unofficial-updater-2"
-+++
+---
+author: David Epler
+date: 2012-06-26T16:30:00-04:00
+draft: false
+title: More Updates to Unofficial Updater 2
+slug: more-updates-to-unofficial-updater-2
+categories:
+  - "Unofficial Updater 2"
+---
 
 It is nice that Adobe has moved to a regular release cycle of security hotfixes for ColdFusion 8.0.1 and 9.0.1. It is making my job easier to maintain [Unofficial Updater 2](https://github.com/dcepler/unofficial-updater2). There have been quite a few changes besides just updating for the latest security hotfix. Below is a detailed change log since the last release. 
 
@@ -33,7 +34,7 @@ UU2 now identifies the user it is running as. If it is running as **root**, it w
 
 ## ColdFusion 8.0.1 Build 196946
 
-So I encountered this at work. We upgraded several ColdFusion 8.0.0 servers to 8.0.1 that were on RedHat and then went to run UU2 on them to patch them which promptly failed. Apparently Adobe created another build number, 196946, that was in the ColdFusion 8 Update 1 for Linux that didnt follow the [official published](http://helpx.adobe.com/coldfusion/kb/determine-version-information-coldfusion-8.html) build number **195765**. Since UU2 (and I) didn't know about it, UU2 properly failed. UU2 now can identify this build and properly patch it. The fun thing is that when you run `cfinfo` in this configuration it reports **8,0,1,196946** but **8,0,1,195765** in the ColdFusion Administrator when fully patched. Just an insight into Adobe's code since one would think the version number would be a constant.
+So I encountered this at work. We upgraded several ColdFusion 8.0.0 servers to 8.0.1 that were on RedHat and then went to run UU2 on them to patch them which promptly failed. Apparently Adobe created another build number, 196946, that was in the ColdFusion 8 Update 1 for Linux that didn't follow the [official published](http://helpx.adobe.com/coldfusion/kb/determine-version-information-coldfusion-8.html) build number **195765**. Since UU2 (and I) didn't know about it, UU2 properly failed. UU2 now can identify this build and properly patch it. The fun thing is that when you run `cfinfo` in this configuration it reports **8,0,1,196946** but **8,0,1,195765** in the ColdFusion Administrator when fully patched. Just an insight into Adobe's code since one would think the version number would be a constant.
 
 ## Wrap-up
 

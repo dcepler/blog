@@ -1,11 +1,12 @@
-+++
-author = "David Epler"
-categories = ["Unofficial Updater 2"]
-date = "2012-04-06T19:00:00-04:00"
-draft = false
-title = "Update to APSB12-06 and Unofficial Updater 2"
-slug = "update-to-apsb12-06-and-unofficial-updater-2"
-+++
+---
+author: David Epler
+date: 2012-04-06T19:00:00-04:00
+draft: false
+title: Update to APSB12-06 and Unofficial Updater 2
+slug: update-to-apsb12-06-and-unofficial-updater-2
+categories:
+  - "Unofficial Updater 2"
+---
  
 So last Thursday (March 29th) Adobe published an update to [APSB12-06](http://www.adobe.com/support/security/bulletins/apsb12-06.html) to address a defect introduced that prevented file uploads from working properly on ColdFusion 8.0.1, see the [Adobe forum post](http://forums.adobe.com/message/4304046) for details. I have just updated [Unofficial Updater 2](https://github.com/dcepler/unofficial-updater2) to apply the corrected files for ColdFusion 8.0.1.
 
