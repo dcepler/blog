@@ -5,6 +5,7 @@ draft: false
 title: Projects
 menu: main
 comments: false
+pager: false
 ---
 
 ### [Unofficial Updater 2](https://www.uu-2.download/)

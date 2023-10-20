@@ -5,6 +5,7 @@ draft: false
 title: Presentations
 menu: main
 comments: false
+pager: false
 ---
 
 Theses are the presentations I have given. I am more than happy to give any of them at a CFUG meeting.
